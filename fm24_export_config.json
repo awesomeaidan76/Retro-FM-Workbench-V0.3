@@ -1,0 +1,15 @@
+{
+  "version": null,
+  "rule_group_version": null,
+  "beta": false,
+  "orvs": null,
+  "svvs": null,
+  "create_container_type": 55,
+  "create_property_id": 1094992978,
+  "person_table_type": 7,
+  "person_dcty": 0,
+  "person_id_start_from": null,
+  "property_ids": {},
+  "requires_verified_fmme_profile": true,
+  "notes": "Use the Football Manager Massive Editor (FMME) fm-2024 profile/settings for production FM24 XML generation. Internal IDs are intentionally left blank until verified against the installed FM24 Pre-Game Editor."
+}

@@ -1,0 +1,20 @@
+{
+  "name": "name",
+  "dob": "date_of_birth",
+  "nation": "nationality",
+  "club": "club",
+  "ca": "ca",
+  "pa": "pa",
+  "pace": "pace",
+  "acceleration": "acceleration",
+  "finishing": "finishing",
+  "passing": "passing",
+  "technique": "technique",
+  "tackling": "tackling",
+  "heading": "heading",
+  "dribbling": "dribbling",
+  "stamina": "stamina",
+  "strength": "strength",
+  "determination": "determination",
+  "work_rate": "work_rate"
+}

@@ -1,0 +1,15 @@
+{
+  "version": 3721,
+  "rule_group_version": 1624,
+  "beta": false,
+  "orvs": "2600",
+  "svvs": "2600",
+  "create_container_type": 55,
+  "create_property_id": 1094992978,
+  "person_table_type": 7,
+  "person_dcty": 0,
+  "person_id_start_from": 900000000000000000,
+  "property_ids": {},
+  "requires_verified_fmme_profile": true,
+  "notes": "Verify internal FM26 property IDs against the installed Pre-Game Editor or use the matching FMME profile for production exports."
+}

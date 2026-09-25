@@ -1,0 +1,5 @@
+# Core app uses Python standard library.
+# Optional/high-volume XLSX support is already available in many Python installations;
+# install openpyxl if you want XLSX input in an extension of the workbench.
+openpyxl>=3.1
+rapidfuzz>=3.0
